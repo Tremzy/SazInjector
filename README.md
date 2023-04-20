@@ -4,3 +4,5 @@ Injector for every game
 First Click Bypass Loader Then Click processor if u see hl2 use that then put ur tf2 cheat file > Floader or somethin like that 
 
 then click inject and click insert while in tf2 to open and close menu
+#Password
+ - `123`
